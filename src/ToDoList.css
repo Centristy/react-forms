@@ -1,0 +1,26 @@
+ul {
+    list-style: none;
+}
+
+.delete {
+    background-color: transparent;
+    border: 0px;
+    color: gray;
+}
+
+.edit {
+    background-color: transparent;
+    
+    color: gray;
+}
+
+
+.delete:hover {
+
+    color: red;
+}
+
+.edit:hover {
+
+    color: green;
+}
